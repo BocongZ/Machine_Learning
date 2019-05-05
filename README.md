@@ -73,8 +73,17 @@ https://github.com/cuixuage/2018SpringCS231n
 **Reinforcement Learning**  
 RLAI 书籍阅读和代码实现   
 https://github.com/cuixuage/Reinforcement_Learning   
+    
+**Recommend**  
+> 1.GBDT (xgboost实现)   
+> 2.FM  (tensorflow实现)  
+> 3.FFM   
+> 4.diversity(MMR & DPP 实现)    
+
 
 # Rreference  
 1.机器学习基石&技法 [Prof. Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/)    
 2.深度学习CS231n [Prof. Fei-Fei Li](http://cs231n.stanford.edu/)   
-3.强化学习RLAI [Prof. Richard S.Sutton](http://incompleteideas.net/)  
+3.强化学习RLAI [Prof. Richard S.Sutton](http://incompleteideas.net/)     
+4.推荐算法入门级代码 [知乎——点击率预估代码](https://zhuanlan.zhihu.com/p/32500652)    
+5.计算广告论文 [论文汇总](https://github.com/wzhe06/Ad-papers)   
